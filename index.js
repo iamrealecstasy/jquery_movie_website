@@ -1,7 +1,4 @@
 $(document).ready(function () {
-  $(".loader").delay(500).fadeOut();
-  $(".preloader").delay(1000).fadeOut();
-
   $(".nav-toggle").click(function () {
     $(".header .nav").slideToggle();
   });
