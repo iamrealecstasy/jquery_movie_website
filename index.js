@@ -1,8 +1,6 @@
 $(document).ready(function () {
-  $(window).on("load", function () {
-    $(".loader").fadeOut();
-    $(".preloader").delay(500).fadeOut();
-  });
+  $(".loader").delay(500).fadeOut();
+  $(".preloader").delay(1000).fadeOut();
 
   $(".nav-toggle").click(function () {
     $(".header .nav").slideToggle();

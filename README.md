@@ -1,4 +1,4 @@
-# A Demo Movie Downloading Website Called "Movie Ecstasy"
+# A Demo Movie Downloading Website Called "MOVIE ECSTASY"
 
 ## Built with HTML, CSS, Bootstrap, and jQuery
 
